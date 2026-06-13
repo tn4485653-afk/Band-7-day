@@ -1,2 +1,5 @@
 aiohttp
 pycryptodome
+jsonify
+request
+flask
